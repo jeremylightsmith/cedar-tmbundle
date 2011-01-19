@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Cedar</string>
+	<key>ordering</key>
+	<array>
+		<string>AD9C316B-9B94-4BD6-83A6-3FD6ACF717C7</string>
+		<string>93DC6AA2-2D17-46FC-B9DC-2AD849FF5CF5</string>
+		<string>F7E2E6F9-039C-4769-9313-EB44E62C5C61</string>
+		<string>DD3EA6D0-F1BE-4F97-A98A-8B36E864FC6A</string>
+		<string>1B3523AC-06C4-4692-813D-0F3D37D9206F</string>
+	</array>
+	<key>uuid</key>
+	<string>C388F346-5CDC-4648-B635-063E71C984CC</string>
+</dict>
+</plist>
